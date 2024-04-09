@@ -29,7 +29,8 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
+            "styles": [              
+              "src/tailwind.scss",
               "src/styles.scss"
             ],
             "scripts": []
@@ -93,7 +94,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/tailwind.scss"
             ],
             "scripts": []
           }
